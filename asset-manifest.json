@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.d1dd7e44.js",
+    "main.css": "/react-gh-pages/static/css/main.d0c974e7.css",
+    "main.js": "/react-gh-pages/static/js/main.84a12cd4.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image-hero-desktop.png": "/react-gh-pages/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
+    "static/media/image-hero-mobile.png": "/react-gh-pages/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
     "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.d1dd7e44.js.map": "/react-gh-pages/static/js/main.d1dd7e44.js.map",
+    "static/media/icon-arrow-down.svg": "/react-gh-pages/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
+    "static/media/icon-arrow-up.svg": "/react-gh-pages/static/media/icon-arrow-up.01861a1152dfab5f1070228d306352f4.svg",
+    "main.d0c974e7.css.map": "/react-gh-pages/static/css/main.d0c974e7.css.map",
+    "main.84a12cd4.js.map": "/react-gh-pages/static/js/main.84a12cd4.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d1dd7e44.js"
+    "static/css/main.d0c974e7.css",
+    "static/js/main.84a12cd4.js"
   ]
 }
